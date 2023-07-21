@@ -24,8 +24,8 @@ You can find apk file in expo_client_app directory of this repo
 
 
 
- <img src="./QR.png" width="350" title="hover text">
- <img src="/QR.png" width="350" title="hover text">
+ <img src="./assets/icon.png" width="350" title="hover text">
+ <img src="assets/icon.png" width="350" title="hover text">
  <img src="QR.png" width="350" title="hover text">
  
 

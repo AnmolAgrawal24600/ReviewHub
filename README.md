@@ -18,7 +18,7 @@ Run following commands....
 ## Demo
 To run this app on your device you need expo client app in your device supporting expo sdk v35 Or you can scan this code to open link after installing Expo Client app.
 You can find apk file in expo_client_app directory of this repo
-[exp://exp.host/@anmolagrawal/ReviewHub?release-channel=default](exp://exp.host/@anmolagrawal/ReviewHub?release-channel=default)
+[Expo app link](exp://exp.host/@anmolagrawal/ReviewHub?release-channel=default)
 
 
 

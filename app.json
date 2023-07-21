@@ -25,6 +25,14 @@
     ],
     "ios": {
       "supportsTablet": true
+    },
+    "extra": {
+      "eas": {
+        "projectId": "615c2a10-c471-47a1-a62e-023d97003c8c"
+      }
+    },
+    "android": {
+      "package": "com.anmolagrawal.ReviewHub"
     }
   }
 }

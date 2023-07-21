@@ -26,5 +26,5 @@ You can find apk file in expo_client_app directory of this repo
 
 
 
-![QR](QR.png)
+![QR](/QR.png)
 
